@@ -1,5 +1,5 @@
 GEM
-  remote: http://135.227.146.235:8808/
+  remote: http://10.10.10.10:8808/
   specs:
     activemodel (4.1.7)
       activesupport (= 4.1.7)
